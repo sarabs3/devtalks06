@@ -1,0 +1,12 @@
+.themeSwitcher{
+    background: white;
+    border: 2px solid black;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.themeSwitcher:hover {
+    background: #ccc;
+}
